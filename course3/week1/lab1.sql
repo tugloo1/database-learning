@@ -1,0 +1,1 @@
+CREATE INDEX zipcode_index ON my_guitar_shop.addresses (zip_code);
